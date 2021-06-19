@@ -25,7 +25,7 @@ npm install
 npm install vue vue-router vue-axios --save
 ```
 
-## Executing the application
+## Executing the Application
 
 * Compile Vue components
 
